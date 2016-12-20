@@ -17,7 +17,6 @@ int main(int argc, char* argv[]) {
 
     // OSM data comes in buffers, read until there are no more.
     while (osmium::memory::Buffer buffer = reader.read()) {
-        
     }
 
     // You do not have to close the Reader explicitly, but because the
