@@ -2,7 +2,7 @@
 #include <iostream> // for std::cerr
 
 // Allow any format of input files (XML, PBF, ...)
-#include <osmium/io/pbf_input.hpp>
+#include <osmium/io/any_input.hpp>
 
 int main(int argc, char* argv[]) {
     if (argc != 2) {
