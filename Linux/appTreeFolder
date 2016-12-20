@@ -1,0 +1,24 @@
+#APP FOLDER TREE
+# mkdir -p root/{Orion/config,{OSRM/build}}
+
+root
+├── Orion								F
+│	├── sensorData.json
+│	└── config							F
+│		├── getDataFromOrion.sh
+│		├── config.sh
+│		├── createEntity.sh
+│		├── deleteAll.sh
+│		├── deleteSomeSubs.sh
+│		├── deleteSubscription.sh
+│		├── subscribeContext.sh
+│		├── updateContext.sh
+│		├── utemp.sh
+│		├── watchFile.sh
+│		└── app.config
+├── OSRM
+│	├── ModJson.h
+│	├── ModJson.cpp
+│	└── build							F
+│		└── data.osm
+└── WebServer
