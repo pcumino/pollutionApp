@@ -23,17 +23,14 @@ string ModJson::getFileName(){
 }
 void ModJson::openFile(){
 	//cout << "=> openFile" << endl;
-	ifstream t(fileName.c_str());
+	ifstream f(fileName.c_str());
+	string contents((std::istreambuf_iterator<char>(f)), std::istreambuf_iterator<char>());
 
-	t.seekg(0, ios::end);
-	fileData.reserve(t.tellg());
-	t.seekg(0, ios::beg);
+    fileData = contents;
 
-	fileData.assign((istreambuf_iterator<char>(t)),istreambuf_iterator<char>());
-
-	t.close();
-
-	if(fileData.length() <= 0)
+	if(!f.good())
+		cout << fileName << " doesn't exist" << endl;
+	else if(fileData.length() <= 0)
 		cout << fileName << " is empty" << endl;
 	else
 		ModJson::jsonToList();
