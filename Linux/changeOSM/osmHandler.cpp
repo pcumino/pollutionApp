@@ -23,21 +23,22 @@ class NamesHandler : public osmium::handler::Handler {
 
 	void output_pubs(const osmium::OSMObject& object) {
 		const osmium::TagList& tags = object.tags();
+
 		if (tags.has_tag("pollution", "low")) {
 
 			// Print name of the pub if it is set.
 			const char* name = tags["name"];
 			if (name) {
-				std::cout << name << "\n";
+				cout << name << "\n";
 			} else {
-				std::cout << "pub with unknown name\n";
+				cout << "pub with unknown name\n";
 			}
 
 			// Iterate over all tags finding those which start with "addr:"
 			// and print them.
 			for (const osmium::Tag& tag : tags) {
-				if (!std::strncmp(tag.key(), "addr:", 5)) {
-					std::cout << "  " << tag.key() << ": " << tag.value() << "\n";
+				if (!strncmp(tag.key(), "addr:", 5)) {
+					cout << "  " << tag.key() << ": " << tag.value() << "\n";
 				}
 			}
 		}
@@ -49,7 +50,9 @@ public:
 	void node(const osmium::Node& node) {
 		output_pubs(node);
 	}
-	
+	ModJson jsontool;
+		jsontool.setFile("sensorData.json");
+		vector< vector<string> > vec = jsontool.getVecList();
 	// Ways can be tagged amenity=pub, too (typically buildings).
 	void way(const osmium::Way& way) {
 		output_pubs(way);
@@ -59,9 +62,9 @@ public:
 
 struct CountHandler : public osmium::handler::Handler {
 
-	std::uint64_t nodes     = 0;
-	std::uint64_t ways      = 0;
-	std::uint64_t relations = 0;
+	uint64_t nodes     = 0;
+	uint64_t ways      = 0;
+	uint64_t relations = 0;
 
 	// This callback is called by osmium::apply for each node in the data.
 	void node(const osmium::Node&) noexcept {
@@ -82,16 +85,13 @@ struct CountHandler : public osmium::handler::Handler {
 
 int main(int argc, char* argv[]) {
 	if (argc != 2) {
-		std::cerr << "Usage: " << argv[0] << " OSMFILE\n";
-		std::exit(1);
+		cerr << "Usage: " << argv[0] << " OSMFILE\n";
+		exit(1);
 	}
 
 	ModJson jsontool;
-	jsontool.setFile("sensorData.json");
-	// jsontool.printList();
-	// vector< vector<string> > vec = jsontool.getVecList();
-	//jsontool.printList(vec);
-
+	jsontool.setFile("sensorata.json");
+	vector< vector<string> > vec = jsontool.getVecList();
 
 	// The Reader is initialized here with an osmium::io::File, but could
 	// also be directly initialized with a file name.
@@ -118,4 +118,3 @@ int main(int argc, char* argv[]) {
 	osmium::apply(reader2, names_handler);
 
 }
-

@@ -6,7 +6,7 @@ var bodyParser = require('body-parser');
 
 var jsonParser = bodyParser.json();
 
-var file = "../sensorData.json";
+var file = "../changeOSM/sensorData.json";
 
 app.get('/', function (req, res) {
 	// res.writeHead(200, {'Content-Type': 'text/plain'});

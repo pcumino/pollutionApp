@@ -8,9 +8,7 @@
 	<node id="495065116" lat="-1.4000735" lon="-48.4850627" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig"/>
 	<node id="495065118" lat="-1.400082" lon="-48.4846931" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig"/>
 	<node id="495065121" lat="-1.401102" lon="-48.4847028" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig"/>
-	<node id="495065123" lat="-1.4011083" lon="-48.4843539" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig">
-		<tag k="pollution" v="low"/>
-	</node>
+	<node id="495065123" lat="-1.4011083" lon="-48.4843539" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig"/>
 	<node id="495065125" lat="-1.4000895" lon="-48.4843638" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig"/>
 	<node id="495065129" lat="-1.4000987" lon="-48.4839585" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig"/>
 	<node id="495065131" lat="-1.401115" lon="-48.4839741" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig"/>
