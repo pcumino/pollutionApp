@@ -1,3 +1,10 @@
+/*
+	This is a Node JS server that receives the notification from
+	Orion Context Broker.
+	This application must be registered in the Orion Context Broker
+	server in order to receive all the valid notifications.
+*/
+
 var port = 3000;
 var express = require('express');
 var app = express();

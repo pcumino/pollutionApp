@@ -50,9 +50,6 @@ public:
 	void node(const osmium::Node& node) {
 		output_pubs(node);
 	}
-	ModJson jsontool;
-		jsontool.setFile("sensorData.json");
-		vector< vector<string> > vec = jsontool.getVecList();
 	// Ways can be tagged amenity=pub, too (typically buildings).
 	void way(const osmium::Way& way) {
 		output_pubs(way);
