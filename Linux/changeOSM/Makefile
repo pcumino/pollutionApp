@@ -8,5 +8,5 @@ all:
 	clear;
 	g++ -c ModJson.cpp -o ModJson.o --std=c++11 -lpthread -lz -lexpat -lbz2;
 	g++ -c osmHandler.cpp -o osmHandler.o --std=c++11 -lpthread -lz -lexpat -lbz2;
-	g++ osmHandler.o ModJson.o -o a.out --std=c++11 -lpthread -lz -lexpat -lbz2;
-	./a.out sample_umarizal_belem.xml
+	g++ osmHandler.o ModJson.o -o updateOSM --std=c++11 -lpthread -lz -lexpat -lbz2;
+	#./updateOSM sample_umarizal_belem.xml
