@@ -76,6 +76,11 @@
 		<tag k="highway" v="residential"/>
 	</way>
 	<way id="40741278" version="5" timestamp="2015-10-05T21:33:11Z" changeset="34457523" uid="446795" user="moacirbmn">
+		<!-- http://nominatim.openstreetmap.org/reverse?format=xml&lat=-1.4011083&lon=-48.4843539 -->
+		<!-- <node id="495065123" lat="-1.4011083" lon="-48.4843539" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig"/> -->
+		
+		<!-- http://nominatim.openstreetmap.org/reverse?format=xml&lat=-1.4000895&lon=-48.4843638 -->
+		<!-- <node id="495065125" lat="-1.4000895" lon="-48.4843638" version="1" timestamp="2009-09-13T13:04:32Z" changeset="2468723" uid="26136" user="Ulf Mehlig"/> -->
 		<nd ref="495065123"/>
 		<nd ref="495065125"/>
 		<tag k="name" v="Rua 27"/>
