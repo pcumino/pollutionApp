@@ -1,0 +1,484 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmconvert 0.8.5" timestamp="2016-10-31T15:03:02Z">
+	<bounds minlat="-1.4476165" minlon="-48.483138" maxlat="-1.4427043" maxlon="-48.4778809"/>
+	<node id="274383941" lat="-1.4431239" lon="-48.4784433" version="8" timestamp="2016-08-30T04:39:42Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="274383955" lat="-1.4459626" lon="-48.4781708" version="6" timestamp="2016-08-30T04:39:43Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="370205992" lat="-1.4467258" lon="-48.4806314" version="4" timestamp="2016-08-30T04:39:43Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="370205996" lat="-1.4438312" lon="-48.4806211" version="5" timestamp="2016-08-30T04:39:43Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="370206122" lat="-1.4473457" lon="-48.4828293" version="5" timestamp="2009-10-26T19:42:08Z" changeset="2959058" uid="190444" user="macro-cefalo"/>
+	<node id="370206153" lat="-1.4429176" lon="-48.4828577" version="6" timestamp="2016-08-30T04:39:44Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="491424086" lat="-1.445958" lon="-48.4828434" version="2" timestamp="2009-10-26T19:42:08Z" changeset="2959058" uid="190444" user="macro-cefalo"/>
+	<node id="491424088" lat="-1.4452364" lon="-48.4806377" version="2" timestamp="2016-08-30T04:39:44Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="491424090" lat="-1.4445399" lon="-48.4783215" version="3" timestamp="2015-07-25T16:09:40Z" changeset="32874169" uid="446795" user="moacirbmn">
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="491424150" lat="-1.4445448" lon="-48.4828512" version="2" timestamp="2009-10-26T19:42:08Z" changeset="2959058" uid="190444" user="macro-cefalo"/>
+	<node id="491465044" lat="-1.4471513" lon="-48.4780092" version="3" timestamp="2016-08-30T04:39:44Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="606964606" lat="-1.4450419" lon="-48.4828382" version="4" timestamp="2016-08-30T04:39:45Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="606964607" lat="-1.4450175" lon="-48.4823979" version="2" timestamp="2014-03-12T03:34:51Z" changeset="21057022" uid="463504" user="erickdeoliveiraleal"/>
+	<node id="606964610" lat="-1.4444299" lon="-48.4806316" version="4" timestamp="2016-08-30T04:39:45Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="606964613" lat="-1.4436426" lon="-48.4828561" version="3" timestamp="2016-08-30T04:39:45Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="606964617" lat="-1.4429327" lon="-48.4806163" version="3" timestamp="2016-08-30T04:39:45Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="606964623" lat="-1.4427701" lon="-48.4806104" version="3" timestamp="2016-08-30T04:39:45Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="3975022887" lat="-1.4451016" lon="-48.4788398" version="1" timestamp="2016-01-29T00:05:34Z" changeset="36870705" uid="1856060" user="patodiez"/>
+	<node id="3975022888" lat="-1.4461369" lon="-48.4787244" version="1" timestamp="2016-01-29T00:05:34Z" changeset="36870705" uid="1856060" user="patodiez"/>
+	<node id="3975022889" lat="-1.4453188" lon="-48.4795613" version="1" timestamp="2016-01-29T00:05:34Z" changeset="36870705" uid="1856060" user="patodiez"/>
+	<node id="3975022890" lat="-1.4463785" lon="-48.4794913" version="1" timestamp="2016-01-29T00:05:34Z" changeset="36870705" uid="1856060" user="patodiez"/>
+	<node id="3975022891" lat="-1.4447195" lon="-48.4806302" version="2" timestamp="2016-08-30T04:39:44Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="3975022892" lat="-1.444442" lon="-48.4796552" version="1" timestamp="2016-01-29T00:05:34Z" changeset="36870705" uid="1856060" user="patodiez"/>
+	<node id="3975022893" lat="-1.4431161" lon="-48.4806173" version="2" timestamp="2016-08-30T04:39:44Z" changeset="41792875" uid="2709441" user="virgilinojuca"/>
+	<node id="3975022894" lat="-1.4428868" lon="-48.4799127" version="1" timestamp="2016-01-29T00:05:34Z" changeset="36870705" uid="1856060" user="patodiez"/>
+	<node id="3975079967" lat="-1.4466814" lon="-48.482836" version="1" timestamp="2016-01-29T01:18:05Z" changeset="36871226" uid="1856060" user="patodiez"/>
+	<node id="3975079968" lat="-1.4464249" lon="-48.4819589" version="1" timestamp="2016-01-29T01:18:05Z" changeset="36871226" uid="1856060" user="patodiez"/>
+	<node id="4375122591" lat="-1.4467419" lon="-48.4827054" version="1" timestamp="2016-08-30T04:39:12Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="name" v="Todeschini"/>
+		<tag k="shop" v="furniture"/>
+	</node>
+	<node id="4375122662" lat="-1.4430244" lon="-48.4784524" version="1" timestamp="2016-08-30T04:39:13Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122663" lat="-1.4431077" lon="-48.4783378" version="1" timestamp="2016-08-30T04:39:13Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122664" lat="-1.4438051" lon="-48.4805411" version="1" timestamp="2016-08-30T04:39:13Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122665" lat="-1.4439308" lon="-48.4806229" version="1" timestamp="2016-08-30T04:39:13Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122666" lat="-1.4457967" lon="-48.4828425" version="1" timestamp="2016-08-30T04:39:13Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122667" lat="-1.4458622" lon="-48.4781814" version="1" timestamp="2016-08-30T04:39:13Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122669" lat="-1.445983" lon="-48.4782355" version="1" timestamp="2016-08-30T04:39:13Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122670" lat="-1.4459937" lon="-48.482964" version="1" timestamp="2016-08-30T04:39:13Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122696" lat="-1.4467526" lon="-48.4807279" version="1" timestamp="2016-08-30T04:39:14Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122697" lat="-1.4468451" lon="-48.4806357" version="1" timestamp="2016-08-30T04:39:14Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122698" lat="-1.4470589" lon="-48.4780218" version="1" timestamp="2016-08-30T04:39:14Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122700" lat="-1.4472439" lon="-48.4828303" version="1" timestamp="2016-08-30T04:39:14Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<node id="4375122701" lat="-1.4473695" lon="-48.4829122" version="1" timestamp="2016-08-30T04:39:14Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<tag k="crossing" v="uncontrolled"/>
+		<tag k="highway" v="traffic_signals"/>
+	</node>
+	<way id="25171553" version="20" timestamp="2016-08-30T04:39:29Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="370206153"/>
+		<nd ref="606964613"/>
+		<nd ref="491424150"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="40"/>
+		<tag k="name" v="Avenida Generalíssimo Deodoro"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="25171557" version="28" timestamp="2016-08-30T04:39:26Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="4375122662"/>
+		<nd ref="274383941"/>
+		<nd ref="491424090"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Avenida Alcindo Cacela"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="40515261" version="15" timestamp="2016-08-30T04:39:27Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="4375122670"/>
+		<nd ref="491424086"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="name" v="Avenida Domingos Marreiros"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="yahoo_imagery"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="47704189" version="4" timestamp="2014-04-15T00:41:33Z" changeset="21700306" uid="463504" user="erickdeoliveiraleal">
+		<nd ref="606964606"/>
+		<nd ref="606964607"/>
+		<nd ref="606964610"/>
+		<tag k="name" v="Passagem Pombo"/>
+		<tag k="highway" v="residential"/>
+	</way>
+	<way id="47704191" version="4" timestamp="2014-04-15T00:41:33Z" changeset="21700306" uid="463504" user="erickdeoliveiraleal">
+		<nd ref="606964613"/>
+		<nd ref="606964617"/>
+		<tag k="name" v="Passagem Nova"/>
+		<tag k="highway" v="residential"/>
+	</way>
+	<way id="47704194" version="3" timestamp="2014-04-15T00:41:33Z" changeset="21700306" uid="463504" user="erickdeoliveiraleal">
+		<nd ref="606964623"/>
+		<tag k="name" v="Passagem João de Almeida"/>
+		<tag k="source" v="yahoo_imagery"/>
+		<tag k="highway" v="residential"/>
+	</way>
+	<way id="344887350" version="4" timestamp="2016-08-30T04:39:26Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="274383955"/>
+		<nd ref="4375122698"/>
+		<nd ref="491465044"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Avenida Alcindo Cacela"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="344887371" version="3" timestamp="2016-08-30T04:39:36Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="274383955"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Travessa Boaventura Silva"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="yahoo_imagery"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="354728411" version="5" timestamp="2016-08-30T04:39:35Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="4375122697"/>
+		<nd ref="370205992"/>
+		<nd ref="491424088"/>
+		<nd ref="3975022891"/>
+		<nd ref="606964610"/>
+		<nd ref="4375122665"/>
+		<nd ref="370205996"/>
+		<nd ref="3975022893"/>
+		<nd ref="606964617"/>
+		<nd ref="606964623"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="40"/>
+		<tag k="name" v="Travessa 14 de Março"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="354917962" version="3" timestamp="2016-08-30T04:39:25Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="491424090"/>
+		<nd ref="4375122667"/>
+		<nd ref="274383955"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Avenida Alcindo Cacela"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="survey"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="354917972" version="3" timestamp="2016-07-03T03:51:43Z" changeset="40451202" uid="2709441" user="virgilinojuca">
+		<nd ref="491424090"/>
+		<tag k="name" v="Avenida Domingos Marreiros"/>
+		<tag k="lanes" v="2"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="yahoo_imagery"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="354917973" version="1" timestamp="2015-06-19T17:46:56Z" changeset="32080669" uid="2709441" user="virgilinojuca">
+		<nd ref="491424086"/>
+		<nd ref="491424088"/>
+		<nd ref="491424090"/>
+		<tag k="name" v="Avenida Domingos Marreiros"/>
+		<tag k="lanes" v="2"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="yahoo_imagery"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="354917974" version="4" timestamp="2016-08-30T04:39:29Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="370206122"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Avenida Generalíssimo Deodoro"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="355201002" version="5" timestamp="2016-08-30T04:39:36Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="4375122701"/>
+		<nd ref="370206122"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="40"/>
+		<tag k="name" v="Travessa Boaventura Silva"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="source" v="yahoo_imagery"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="355201006" version="3" timestamp="2016-08-30T04:39:37Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="491465044"/>
+		<tag k="highway" v="residential"/>
+		<tag k="name" v="Travessa João Balbi"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="source" v="yahoo_imagery"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="355559249" version="6" timestamp="2016-08-30T04:39:26Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="491424150"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Avenida Antônio Barreto"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="360407205" version="6" timestamp="2016-08-30T04:39:40Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="370206122"/>
+		<nd ref="4375122701"/>
+		<tag k="landuse" v="residential"/>
+		<tag k="source" v="Bing"/>
+	</way>
+	<way id="360919665" version="4" timestamp="2016-06-10T02:34:38Z" changeset="39920954" uid="4094085" user="gabrielshoow">
+		<nd ref="370206153"/>
+		<tag k="name" v="Travessa Diogo Móia"/>
+		<tag k="lanes" v="2"/>
+		<tag k="highway" v="residential"/>
+		<tag k="surface" v="asphalt"/>
+	</way>
+	<way id="377700602" version="5" timestamp="2016-08-30T04:39:41Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="370206153"/>
+		<nd ref="606964613"/>
+		<nd ref="491424150"/>
+		<nd ref="606964606"/>
+		<nd ref="4375122666"/>
+		<nd ref="491424086"/>
+		<nd ref="3975079967"/>
+		<nd ref="4375122700"/>
+		<nd ref="370206122"/>
+		<tag k="landuse" v="residential"/>
+		<tag k="source" v="Bing"/>
+	</way>
+	<way id="377700603" version="9" timestamp="2016-08-30T04:39:41Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="370206122"/>
+		<nd ref="4375122700"/>
+		<nd ref="3975079967"/>
+		<nd ref="491424086"/>
+		<nd ref="4375122666"/>
+		<nd ref="606964606"/>
+		<nd ref="491424150"/>
+		<nd ref="606964613"/>
+		<nd ref="370206153"/>
+		<nd ref="4375122701"/>
+		<nd ref="370206122"/>
+		<tag k="landuse" v="residential"/>
+		<tag k="source" v="Bing"/>
+	</way>
+	<way id="394502088" version="1" timestamp="2016-01-29T00:05:35Z" changeset="36870705" uid="1856060" user="patodiez">
+		<nd ref="3975022887"/>
+		<nd ref="3975022888"/>
+		<tag k="highway" v="service"/>
+		<tag k="service" v="alley"/>
+	</way>
+	<way id="394502089" version="1" timestamp="2016-01-29T00:05:35Z" changeset="36870705" uid="1856060" user="patodiez">
+		<nd ref="3975022889"/>
+		<nd ref="3975022890"/>
+		<tag k="highway" v="service"/>
+		<tag k="service" v="alley"/>
+	</way>
+	<way id="394502090" version="1" timestamp="2016-01-29T00:05:35Z" changeset="36870705" uid="1856060" user="patodiez">
+		<nd ref="3975022891"/>
+		<nd ref="3975022892"/>
+		<tag k="highway" v="service"/>
+		<tag k="service" v="alley"/>
+	</way>
+	<way id="394502091" version="1" timestamp="2016-01-29T00:05:35Z" changeset="36870705" uid="1856060" user="patodiez">
+		<nd ref="3975022893"/>
+		<nd ref="3975022894"/>
+		<tag k="highway" v="service"/>
+		<tag k="service" v="alley"/>
+	</way>
+	<way id="394510607" version="1" timestamp="2016-01-29T01:18:06Z" changeset="36871226" uid="1856060" user="patodiez">
+		<nd ref="3975079967"/>
+		<nd ref="3975079968"/>
+		<tag k="highway" v="service"/>
+		<tag k="service" v="alley"/>
+	</way>
+	<way id="439834633" version="1" timestamp="2016-08-30T04:39:15Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="370205996"/>
+		<nd ref="491424150"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Avenida Antônio Barreto"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="surface" v="paved"/>
+		<tag k="turn:lanes" v="through;left|through|through"/>
+	</way>
+	<way id="439834634" version="1" timestamp="2016-08-30T04:39:16Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="274383941"/>
+		<nd ref="4375122664"/>
+		<nd ref="370205996"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="40"/>
+		<tag k="name" v="Avenida Antônio Barreto"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="439834636" version="1" timestamp="2016-08-30T04:39:16Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="4375122663"/>
+		<nd ref="274383941"/>
+		<tag k="highway" v="secondary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="40"/>
+		<tag k="name" v="Avenida Antônio Barreto"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="surface" v="paved"/>
+		<tag k="turn:lanes" v="through;left|through|through"/>
+	</way>
+	<way id="439834639" version="1" timestamp="2016-08-30T04:39:16Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="491424086"/>
+		<nd ref="3975079967"/>
+		<nd ref="4375122700"/>
+		<nd ref="370206122"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="2"/>
+		<tag k="maxspeed" v="40"/>
+		<tag k="name" v="Avenida Generalíssimo Deodoro"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="surface" v="paved"/>
+		<tag k="turn:lanes" v="through;left|through|through"/>
+	</way>
+	<way id="439834640" version="1" timestamp="2016-08-30T04:39:16Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="491424150"/>
+		<nd ref="606964606"/>
+		<nd ref="4375122666"/>
+		<nd ref="491424086"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="40"/>
+		<tag k="name" v="Avenida Generalíssimo Deodoro"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="439834648" version="1" timestamp="2016-08-30T04:39:17Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="370206122"/>
+		<nd ref="4375122696"/>
+		<nd ref="370205992"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Travessa Boaventura Silva"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="source" v="yahoo_imagery"/>
+		<tag k="surface" v="paved"/>
+	</way>
+	<way id="439834650" version="1" timestamp="2016-08-30T04:39:18Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<nd ref="370205992"/>
+		<nd ref="3975022890"/>
+		<nd ref="3975022888"/>
+		<nd ref="4375122669"/>
+		<nd ref="274383955"/>
+		<tag k="highway" v="tertiary"/>
+		<tag k="lanes" v="3"/>
+		<tag k="maxspeed" v="50"/>
+		<tag k="name" v="Travessa Boaventura Silva"/>
+		<tag k="oneway" v="yes"/>
+		<tag k="parking:lane:both" v="parallel"/>
+		<tag k="source" v="yahoo_imagery"/>
+		<tag k="surface" v="paved"/>
+		<tag k="turn:lanes" v="through|through|through;right"/>
+	</way>
+	<relation id="5136602" version="8" timestamp="2016-08-30T04:39:21Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<member type="way" ref="344887350" role="outer"/>
+		<member type="way" ref="439834650" role="outer"/>
+		<member type="way" ref="439834648" role="outer"/>
+		<member type="way" ref="355201002" role="outer"/>
+		<tag k="admin_level" v="10"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="name" v="Nazaré"/>
+		<tag k="source" v="Lei municipal 7.806 de 30/07/1996"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+	<relation id="5136603" version="2" timestamp="2015-06-21T00:24:41Z" changeset="32107303" uid="2709441" user="virgilinojuca">
+		<member type="way" ref="344887350" role="outer"/>
+		<member type="way" ref="344887371" role="outer"/>
+		<tag k="name" v="São Brás"/>
+		<tag k="type" v="boundary"/>
+		<tag k="source" v="Lei municipal 7.806 de 30/07/1996"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="admin_level" v="10"/>
+	</relation>
+	<relation id="5136604" version="9" timestamp="2016-08-30T04:39:21Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<member type="way" ref="355201002" role="outer"/>
+		<member type="way" ref="439834648" role="outer"/>
+		<member type="way" ref="439834650" role="outer"/>
+		<member type="way" ref="344887371" role="outer"/>
+		<tag k="admin_level" v="10"/>
+		<tag k="boundary" v="administrative"/>
+		<tag k="name" v="Umarizal"/>
+		<tag k="source" v="Lei municipal 7.806 de 30/07/1996"/>
+		<tag k="type" v="boundary"/>
+	</relation>
+	<relation id="5300133" version="6" timestamp="2016-08-30T04:39:24Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<member type="way" ref="25171553" role=""/>
+		<member type="way" ref="439834640" role=""/>
+		<member type="way" ref="354917973" role=""/>
+		<member type="way" ref="354917962" role=""/>
+		<member type="way" ref="344887350" role=""/>
+		<tag k="colour" v="#883366"/>
+		<tag k="name" v="UFPA–Padre Eutíquio (volta)"/>
+		<tag k="operator" v="Guajará"/>
+		<tag k="public_transport:version" v="2"/>
+		<tag k="ref" v="307"/>
+		<tag k="route" v="bus"/>
+		<tag k="source" v="SeMOB"/>
+		<tag k="type" v="route"/>
+	</relation>
+	<relation id="5300135" version="3" timestamp="2015-07-17T18:07:17Z" changeset="32703401" uid="2709441" user="virgilinojuca">
+		<member type="relation" ref="5300133" role=""/>
+		<tag k="name" v="UFPA–Padre Eutíquio"/>
+		<tag k="type" v="route_master"/>
+		<tag k="route_master" v="bus"/>
+	</relation>
+	<relation id="5303923" version="7" timestamp="2016-08-30T04:39:23Z" changeset="41792875" uid="2709441" user="virgilinojuca">
+		<member type="way" ref="355201006" role=""/>
+		<tag k="colour" v="#883366"/>
+		<tag k="name" v="UFPA–Alcindo Cacela (centro)"/>
+		<tag k="public_transport:version" v="2"/>
+		<tag k="ref" v="308"/>
+		<tag k="route" v="bus"/>
+		<tag k="source" v="SeMOB"/>
+		<tag k="type" v="route"/>
+	</relation>
+	<relation id="5303925" version="2" timestamp="2015-06-21T02:24:45Z" changeset="32108202" uid="2709441" user="virgilinojuca">
+		<member type="relation" ref="5303923" role=""/>
+		<tag k="name" v="UFPA–Alcindo Cacela"/>
+		<tag k="type" v="route_master"/>
+		<tag k="source" v="SeMOB"/>
+		<tag k="route_master" v="bus"/>
+	</relation>
+</osm>

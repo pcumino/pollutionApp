@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="osmium_create_pois">
+  <node id="-1" version="1" timestamp="2017-02-07T00:08:34Z" lat="3.45" lon="1.23">
+    <tag k="amenity" v="post_box"/>
+  </node>
+  <node id="-2" version="1" timestamp="2017-02-07T00:08:34Z" lat="3.46" lon="1.24">
+    <tag k="amenity" v="restaurant"/>
+    <tag k="name" v="Chez OSM"/>
+  </node>
+</osm>
